@@ -1,4 +1,4 @@
-# Dynamic Connect-3
+# Dynamic Connect-4
 
 
 ### Project 1 - AI course (ECSE 526) - McGill - Fall 2016
