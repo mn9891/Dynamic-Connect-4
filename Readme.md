@@ -2,12 +2,12 @@
 
 
 ### Project 1 - AI course (ECSE 526) - McGill - Fall 2016
-Check project instuctions [here](http://www.cim.mcgill.ca/~jer/courses/ai/as1).
+Check project instuctions [here](http://www.cim.mcgill.ca/~jer/courses/ai/assignments/as1.html).
 
 ### The game 
 
 
-"dynamic connect-3" is played on a 5x4 grid or 7x6 as follows:
+"dynamic connect-4" is played on a 5x4 grid or 7x6 as follows:
 Starting from the initial position, players take turns moving one piece of their colour by one square,
 either horizontally or vertically. White plays first. Pieces can only move to unoccupied squares.
 The winner is the first player to line up three of its pieces either horizontally, vertically, or diagonally.
